@@ -8,7 +8,7 @@ I was intending to keep this project private, once that, if you're starting a mo
 
 ## Usage
 
-1. Create a new GitHub repository using this project as a template _or_ `git clone` this repo to your local machine
+1. Create a new GitHub repository [using this project as a template](https://github.com/823cccc/yarn-workspaces-typescript-template/generate) _or_ `git clone` this repo to your local machine
 
 2. Rename whatever needed in accordance to your project's name. Here's a list of files that you might've want to have a look:
    - [.eslintrc.js](.eslintrc.js)
