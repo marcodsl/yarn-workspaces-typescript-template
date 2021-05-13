@@ -1,0 +1,10 @@
+# Node Modules
+node_modules
+
+# Dot files, configuration files and bundles
+.*.js
+*.config.js
+*.bundle.js
+
+# Transpiled from TypeScript
+dist
